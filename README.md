@@ -1,3 +1,4 @@
 CCU Proj - 2022/2023
 
-See it at inesrvoliveira.github.io
+Remove "-ccu" in the name of the repository to see ccu project at inesrvoliveira.github.io
+
